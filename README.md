@@ -6,7 +6,7 @@
 - 🤔 I’m looking for full time jobs in roles like AI Engineer, Front-End, Full-Stack Developer, Data Scientist or Machine Learning Engineer.
 - 💬 Ask me about data science, AI, and software development.
 - 📫 How to reach me: ykairuo@gmail.com
-- My resume: 
+- 📜 View my **[Resume](https://github.com/Kr-Yan/Kr-Yan/blob/main/resume_kairuo.pdf)**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m passionate about tech in communication and humanities, and I have a pet rabbit named Luna!
 
