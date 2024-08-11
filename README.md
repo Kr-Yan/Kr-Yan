@@ -26,5 +26,5 @@
     
 - **[Formula-One-F1-Database-Management-System](https://github.com/Kr-Yan/Formula-One-F1-Database-Management-System)**:Created a SQL relational database that captures and organizes extensive data related to Formula One racing. The database stores information and offers users the ability to query and analyze various aspects of the sport in the Python application.
 
-- **[Credit Card Fraud Detection Using Clustering and Classification Models](https://github.com/Kr-Yan/Credit-Card-Fraud-Detection-Using-Clustering-and-Classification-Models))**:This project explore factors that differentiate between fraudulent and non-fraudulent transactions using ML technique. By applying clustering and classification models, ensemble learning, and feature engineering, we seek to identify key patterns and variables that are most indicative of fraudulent behavior.
+- **[Credit Card Fraud Detection Using Clustering and Classification Models](https://github.com/Kr-Yan/Credit-Card-Fraud-Detection-Using-Clustering-and-Classification-Models)**:This project explore factors that differentiate between fraudulent and non-fraudulent transactions using ML technique. By applying clustering and classification models, ensemble learning, and feature engineering, we seek to identify key patterns and variables that are most indicative of fraudulent behavior.
 
