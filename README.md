@@ -7,6 +7,7 @@
 
 
 - 📫 How to reach me: ykairuo@gmail.com
+- 💻 LinkedIn: https://www.linkedin.com/in/kairuo-yan
 - 📜 View my **[Resume](https://github.com/Kr-Yan/Kr-Yan/blob/main/resume_kairuo.pdf)**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m passionate about tech in communication and humanities, and I have a pet rabbit named Luna!
