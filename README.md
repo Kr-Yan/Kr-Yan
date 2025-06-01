@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Chloe Yan
 
-- 🔭 I’m currently work at FounderWayAI as an AI Engineer, and I'm also working on building a stock trading bot and developing HelpBuddy, a startup that assists people undergoing eviction by providing social service recommendations and legal support resources.
+- 🔭 I’m currently work at FounderWay as an AI Engineer, and I'm also working on building a stock trading bot and developing HelpBuddy, a startup that assists people undergoing eviction by providing social service recommendations and legal support resources.
 - 🌱 I’m currently learning about reinforcement learning and Markov decision processes.
 - 👯 I’m looking to collaborate on AI-driven projects, social impact tech solutions, or anything involving innovative data science.
 - 🤔 I’m looking for full-time jobs in roles like AI Engineer, Front-End, Full-Stack Developer, Data Scientist or Machine Learning Engineer.
