@@ -5,6 +5,7 @@
 - 🤔 I’m looking for full-time jobs in roles like AI Engineer, Front-End, Full-Stack Developer, Data Scientist or Machine Learning Engineer.
 
 
+
 - 📫 How to reach me: chloeyankr@gmail.com
 - 💻 LinkedIn: https://www.linkedin.com/in/chloe-yan1
 - 📜 View my **[Resume](https://github.com/Kr-Yan/Kr-Yan/blob/main/sde_chloeY.pdf)**
