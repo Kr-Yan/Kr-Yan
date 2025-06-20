@@ -19,7 +19,7 @@
 
 - **[Stack Overflow-Inspired Web Application](https://github.com/Kr-Yan/Stack-Overflow-Inspired-Web-Application)**: This project implements a full-stack webapp with functionality inspired by Stack Overflow, supported by industry standards in software design, modularization, end-to-end testing and a CI pipeline.
 
-- **[Fake News Lab: Analyzing Covid-19 News](https://github.com/Kr-Yan/Fake-News-Lab-Analyzing-Covid-19-News)**: This project analyzes the most discussed topics and keywords surrounding Covid-19 news using ML techniques. We employed Latent Dirichlet Allocation (LDA) and text summarization methods to extract key insights from a dataset of Covid-19 related discussions.
+- **[Fake News Lab: Analyzing Covid-19 News](https://github.com/Kr-Yan/Analysis-of-Covid-19-Fake-News-using-Deep-Learning)**: This project analyzes the most discussed topics and keywords surrounding Covid-19 news using ML techniques. We employed Latent Dirichlet Allocation (LDA) and text summarization methods to extract key insights from a dataset of Covid-19 related discussions.
 
 - **[Graphical Image Manipulation and Enhancement](https://github.com/Kr-Yan/Graphical-Image-Manipulation-and-Enhancement-Project)**: Designed a view for an image processing application, featuring a graphical user interface which allows a user to interactively load, process, and save images. Uses Java Swing to build the GUI.
 
